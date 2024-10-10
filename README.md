@@ -1,8 +1,5 @@
 During my Data Analytics internship at Oasis Infobyte, I gained invaluable hands-on experience in data interpretation and analysis through a series of challenging projects. I utilized various libraries, including Scikit-Learn for machine learning, Pandas for data manipulation, and Seaborn and Matplotlib for data visualization. This experience allowed me to deepen my understanding of data processes and significantly enhanced my skills in interpreting and analyzing complex datasets.
 During my internship at Oasis Infobyte, I worked on several key projects:
-
 1. Wine Quality Prediction: This project aimed to predict wine quality based on its chemical characteristics. I implemented various classifier models, including Random Forest and Stochastic Gradient Descent, analyzed the impact of chemical properties on quality, and utilized Seaborn and Matplotlib for data visualization to uncover insights.
-
 2. Data Cleaning: In this project, I focused on ensuring data quality through comprehensive cleaning processes. I maintained data integrity by fixing inaccuracies, employed various imputation techniques to handle missing data, and identified outliers to refine the dataset for better analysis.
-
 3. Predicting House Prices with Linear Regression: This project involved building a model to estimate house prices based on relevant features. I explored the dataset structure, managed missing values, selected key features influencing house prices, and implemented linear regression using Scikit-Learn. I evaluated the model’s performance using metrics like Mean Squared Error and R-squared, and created visualizations to compare predicted and actual values.
